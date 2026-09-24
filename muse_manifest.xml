@@ -1,0 +1,281 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="agenciaredes.cl" resolutions="1x" timestamp="1478646000761">
+  <folder name="css">
+    <file name="site_global.css" crc="189150360"/>
+    <file name="master_a-p_g_-maestra.css" crc="241298689" ref="contacto:asesoria:impresos:producciones:sin-título-10:index:web:la-importancia-de-comunicar:antofagasta-a-mil-2017:comunicacion-y-emprendimiento:portafolio"/>
+    <file name="contacto.css" crc="346751269" ref="contacto"/>
+    <file name="asesoria.css" crc="172100659" ref="asesoria"/>
+    <file name="impresos.css" crc="289671477" ref="impresos"/>
+    <file name="producciones.css" crc="4283695233" ref="producciones"/>
+    <file name="sin-t_tulo-10.css" crc="3916385250" ref="sin-título-10"/>
+    <file name="index.css" crc="64772220" ref="index"/>
+    <file name="web.css" crc="4261427646" ref="web"/>
+    <file name="la-importancia-de-comunicar.css" crc="459138702" ref="la-importancia-de-comunicar"/>
+    <file name="antofagasta-a-mil-2017.css" crc="4060015634" ref="antofagasta-a-mil-2017"/>
+    <file name="comunicacion-y-emprendimiento.css" crc="350296015" ref="comunicacion-y-emprendimiento"/>
+    <file name="portafolio.css" crc="463905743" ref="portafolio"/>
+  </folder>
+  <folder name="assets">
+    <folder name="asesorias-proyectos">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1476908570000"/>
+      </folder>
+      <folder name="images">
+        <file name="asesorias-proyectos.jpg" crc="3826224732" mt="1476908570000"/>
+        <file name="asesorias-proyectos.png" crc="3956563972" mt="1476908570000"/>
+        <file name="asesorias-proyectos2.png" crc="225006769" mt="1476908570000"/>
+      </folder>
+      <file name="transparent.png" crc="3806069603" mt="1476908570000"/>
+      <file name="asesorias-proyectos_edge.js" crc="3961896101" mt="1476908570000"/>
+      <file name="asesorias-proyectos.html" crc="3920445991" mt="1476908570000"/>
+    </folder>
+    <folder name="produccion">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1476670155000"/>
+      </folder>
+      <folder name="images">
+        <file name="difusion.jpg" crc="491211231" mt="1476670155000"/>
+        <file name="icon.png" crc="4259589719" mt="1476670155000"/>
+        <file name="Poster.png" crc="4259589719" mt="1476670155000"/>
+      </folder>
+      <file name="produccion_edge.js" crc="307100044" mt="1476670155000"/>
+      <file name="produccion.html" crc="87655046" mt="1476670155000"/>
+    </folder>
+    <folder name="impresos">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1476481948000"/>
+      </folder>
+      <folder name="images">
+        <file name="IMPRESOS.jpg" crc="512741192" mt="1476481948000"/>
+        <file name="Poster.png" crc="317425663" mt="1476481948000"/>
+      </folder>
+      <file name="impresos_edge.js" crc="258036884" mt="1476481948000"/>
+      <file name="impresos.html" crc="4088600363" mt="1476481948000"/>
+    </folder>
+    <folder name="staff-celular">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1473868344000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="3938713227" mt="1473868344000"/>
+        <file name="Poster.png" crc="3938713227" mt="1473868344000"/>
+        <file name="staff-celular.png" crc="27030275" mt="1473868344000"/>
+      </folder>
+      <file name="staff-celular_edge.js" crc="126052939" mt="1473868344000"/>
+      <file name="staff-celular.html" crc="4229622849" mt="1473868344000"/>
+    </folder>
+    <folder name="staff">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1473867842000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="466549005" mt="1473867842000"/>
+        <file name="staff.jpg" crc="442943798" mt="1473867842000"/>
+        <file name="staff2.jpg" crc="442943798" mt="1473867842000"/>
+        <file name="staff2.png" crc="329047396" mt="1473867842000"/>
+        <file name="staff22.png" crc="232018371" mt="1473867842000"/>
+      </folder>
+      <file name="staff_edge.js" crc="55680581" mt="1473867842000"/>
+      <file name="staff.html" crc="4237946932" mt="1473867842000"/>
+    </folder>
+    <folder name="valores">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1473822027000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="385455645" mt="1473822027000"/>
+        <file name="Poster.png" crc="385455645" mt="1473822027000"/>
+        <file name="valores-agencia-redes.png" crc="4077947650" mt="1473822027000"/>
+      </folder>
+      <file name="valores_edge.js" crc="4243795589" mt="1473822027000"/>
+      <file name="valores.html" crc="527698810" mt="1473822027000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="museconfig.js" crc="4242129463" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="pie.js" crc="3831537696" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="webpro.js" crc="4067903014" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="phone>index:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="phone>index:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017"/>
+    <file name="touchswipe.js" crc="474750357" ref="phone>index:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:index:phone>tendencia-opinion---copia"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="phone>index:phone>contacto:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="form_check.php" crc="121412709" ref="phone>contacto"/>
+    <file name="form_throttle.php" crc="4268640971" ref="phone>contacto"/>
+    <file name="form_process.php" crc="444429785" ref="phone>contacto"/>
+    <file name="form-u4510.php" crc="330029028" ref="phone>contacto"/>
+    <file name="form-u8035.php" crc="3783161759" ref="tablet>contacto"/>
+    <file name="form-u1760.php" crc="401254215" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="a-pág.-maestra-favicon.ico" crc="4195323360" ref="phone>index"/>
+    <file name="svg-pegado-701136x147.svg" crc="438100406" seo="true" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="svg pegado 701136x147_poster_.png" crc="4056240753" ref="phone>index"/>
+    <file name="hasen.gif" crc="4085158084" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="banner-00371x132.jpg" crc="267694037" seo="true" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="banner-04371x132.jpg" crc="4100550879" seo="true" ref="phone>index"/>
+    <file name="banner-02371x132.jpg" crc="201372494" seo="true" ref="phone>index"/>
+    <file name="banner-03371x132.jpg" crc="152456617" seo="true" ref="phone>index"/>
+    <file name="banner-01371x132.jpg" crc="13909550" seo="true" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="svg-pegado-34x34.svg" crc="170738947" seo="true" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="svg pegado 34x34_poster_.png" crc="4272167327" ref="phone>index"/>
+    <file name="svg-pegado-34x342.svg" crc="23807211" seo="true" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="svg pegado 34x34_poster_2.png" crc="184074619" ref="phone>index"/>
+    <file name="svg-pegado-34x343.svg" crc="3987292743" seo="true" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="svg pegado 34x34_poster_3.png" crc="239772228" ref="phone>index"/>
+    <file name="svg-pegado-34016x34.svg" crc="4068694198" seo="true" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="svg pegado 34016x34_poster_.png" crc="3774254681" ref="phone>index"/>
+    <file name="menu.png" crc="3828664667" seo="true" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:phone>tendencia-opinion---copia"/>
+    <file name="quienes-somos-mobile.jpg" crc="3926765161" seo="true" ref="phone>index"/>
+    <file name="servicios.jpg" crc="388854988" seo="true" ref="phone>index"/>
+    <file name="logo_proloa.jpg" crc="3910913939" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="ac.jpg" crc="4117404785" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="captura de pantalla 2016-03-17 a las 221228.jpg" crc="3903928218" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="antofa-a-mil-u31938-fr.jpg" crc="465683418" ref="phone>index:tablet>index:index"/>
+    <file name="emprendimiento.jpg" crc="449787576" seo="true" ref="phone>index:phone>tendencia-opinion:tablet>index:tablet>comunicacion-y-emprendimiento:index:comunicacion-y-emprendimiento"/>
+    <file name="svg-pegado-701636x147.svg" crc="4179958705" seo="true" ref="phone>index:phone>contacto:phone>tendencia-opinion:phone>servicios:phone>quienes-somos:phone>portafolio:phone>asesorias:phone>impresos:phone>web:phone>producciones:tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:sin-título-10:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="svg pegado 701636x147_poster_.png" crc="128463076" ref="phone>index"/>
+    <file name="antofagasta-de-noche.jpg" crc="3939365481" ref="phone>contacto:tablet>contacto:contacto"/>
+    <file name="u8169-4.png" crc="3776283280" ref="phone>contacto"/>
+    <file name="u4526-17.png" crc="29871666" ref="phone>contacto"/>
+    <file name="u4526-17-r.png" crc="72809719" ref="phone>contacto"/>
+    <file name="u4526-17-m.png" crc="242289955" ref="phone>contacto"/>
+    <file name="u4526-17-fs.png" crc="3989027461" ref="phone>contacto"/>
+    <file name="antofa-a-mil.jpg" crc="528442885" seo="true" ref="phone>tendencia-opinion:tablet>antofagasta-a-mil-2017:antofagasta-a-mil-2017:phone>tendencia-opinion---copia"/>
+    <file name="comunicar.jpg" crc="3915509317" seo="true" ref="phone>tendencia-opinion:tablet>la-importancia-de-comunicar:la-importancia-de-comunicar"/>
+    <file name="eventos.jpg" crc="451853902" seo="true" ref="phone>servicios"/>
+    <file name="capacitaciones.jpg" crc="415117834" seo="true" ref="phone>servicios"/>
+    <file name="proyectos.jpg" crc="3772992589" seo="true" ref="phone>servicios"/>
+    <file name="mision-u4001-fr.jpg" crc="4215532429" ref="phone>quienes-somos"/>
+    <file name="vision.jpg" crc="493917958" seo="true" ref="phone>quienes-somos:tablet>index:index"/>
+    <file name="valores-agencia-redes.png" crc="4077947650" seo="true" ref="phone>quienes-somos"/>
+    <file name="asesorias-movil.jpg" crc="4005561789" seo="true" ref="phone>portafolio"/>
+    <file name="impresos-movil.jpg" crc="504177174" seo="true" ref="phone>portafolio"/>
+    <file name="web-movil.jpg" crc="4286450809" seo="true" ref="phone>portafolio"/>
+    <file name="producciones-movil.jpg" crc="262153302" seo="true" ref="phone>portafolio"/>
+    <file name="asesoria-1-movil.jpg" crc="436750836" seo="true" ref="phone>asesorias"/>
+    <file name="asesoria-2-movil.jpg" crc="52804055" seo="true" ref="phone>asesorias"/>
+    <file name="titulo-asesoria.jpg" crc="459544259" seo="true" ref="phone>asesorias"/>
+    <file name="impresos-1-movil.jpg" crc="3887372834" seo="true" ref="phone>impresos"/>
+    <file name="impresos-2-movil.jpg" crc="4248508163" seo="true" ref="phone>impresos"/>
+    <file name="titulo-impresos.jpg" crc="4047886073" seo="true" ref="phone>impresos"/>
+    <file name="web-movil2.jpg" crc="10273800" seo="true" ref="phone>web"/>
+    <file name="titulo-web.jpg" crc="521059039" seo="true" ref="phone>web"/>
+    <file name="producciones-1-movil.jpg" crc="231116132" seo="true" ref="phone>producciones"/>
+    <file name="titulo-producciones.jpg" crc="393855523" seo="true" ref="phone>producciones"/>
+    <file name="producciones-2-movil.jpg" crc="4150470660" seo="true" ref="phone>producciones"/>
+    <file name="producciones-3-movil.jpg" crc="7432539" seo="true" ref="phone>producciones"/>
+    <file name="producciones-4-movil.jpg" crc="505545" seo="true" ref="phone>producciones"/>
+    <file name="btn-youtube-spot.jpg" crc="10848183" ref="tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:antofagasta-a-mil-2017"/>
+    <file name="btn-youtube-spot2.jpg" crc="523172295" ref="tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:antofagasta-a-mil-2017"/>
+    <file name="arrowmenudown.png" crc="345214036" ref="tablet>index:tablet>contacto:tablet>la-importancia-de-comunicar:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>impresos:tablet>producciones:tablet>web:tablet>antofagasta-a-mil-2017:index:contacto:la-importancia-de-comunicar:comunicacion-y-emprendimiento:portafolio:asesoria:impresos:web:producciones:antofagasta-a-mil-2017"/>
+    <file name="banner-00.jpg" crc="535942011" seo="true" ref="tablet>index:index"/>
+    <file name="banner-04.jpg" crc="332620388" seo="true" ref="tablet>index:index"/>
+    <file name="banner-02.jpg" crc="3812754119" seo="true" ref="tablet>index:index"/>
+    <file name="banner-03.jpg" crc="197365961" seo="true" ref="tablet>index:index"/>
+    <file name="banner-01.jpg" crc="4101111615" seo="true" ref="tablet>index:index"/>
+    <file name="u12704-4.png" crc="3925342936" ref="tablet>index"/>
+    <file name="u12696-4.png" crc="3850397656" ref="tablet>index"/>
+    <file name="mision.jpg" crc="510190615" ref="tablet>index:index"/>
+    <file name="u12694-4.png" crc="4293784330" ref="tablet>index"/>
+    <file name="u12689-4.png" crc="409802511" ref="tablet>index"/>
+    <file name="u8246-4.png" crc="3776283280" ref="tablet>contacto"/>
+    <file name="u8047-17.png" crc="4110810787" ref="tablet>contacto"/>
+    <file name="u8047-17-r.png" crc="4257501500" ref="tablet>contacto"/>
+    <file name="u8047-17-m.png" crc="4257501500" ref="tablet>contacto"/>
+    <file name="u8047-17-fs.png" crc="80190691" ref="tablet>contacto"/>
+    <file name="asesoria-01.jpg" crc="3805977884" ref="tablet>asesorias:asesoria"/>
+    <file name="asesoria-05.jpg" crc="4046763278" ref="tablet>asesorias:asesoria"/>
+    <file name="asesoria-02.jpg" crc="44298665" ref="tablet>asesorias:asesoria"/>
+    <file name="impresos-1.jpg" crc="3793857821" ref="tablet>impresos:impresos"/>
+    <file name="impresos-2.jpg" crc="25712335" ref="tablet>impresos:impresos"/>
+    <file name="impresos-3.jpg" crc="34740023" ref="tablet>impresos:impresos"/>
+    <file name="impresos-4.jpg" crc="393703475" ref="tablet>impresos:impresos"/>
+    <file name="impresos-5.jpg" crc="126681853" ref="tablet>impresos:impresos"/>
+    <file name="impresos-6.jpg" crc="467646724" ref="tablet>impresos:impresos"/>
+    <file name="calama mi sol proyecto ejecutado por proloa y financiado por codelco-1.jpg" crc="177978108" ref="tablet>producciones:producciones:sin-título-10"/>
+    <file name="produccion-2.jpg" crc="4138268383" ref="tablet>producciones:producciones:sin-título-10"/>
+    <file name="produccion-3.jpg" crc="4039913081" ref="tablet>producciones:producciones:sin-título-10"/>
+    <file name="produccion-4.jpg" crc="165540983" ref="tablet>producciones:producciones:sin-título-10"/>
+    <file name="u1389-4.png" crc="3925342936" ref="index"/>
+    <file name="u1392-4.png" crc="3850397656" ref="index"/>
+    <file name="u1442-4.png" crc="4293784330" ref="index"/>
+    <file name="u1458-4.png" crc="409802511" ref="index"/>
+    <file name="u7922-4.png" crc="3776283280" ref="contacto"/>
+    <file name="u1765-17.png" crc="4110810787" ref="contacto"/>
+    <file name="u1765-17-r.png" crc="4257501500" ref="contacto"/>
+    <file name="u1765-17-m.png" crc="4257501500" ref="contacto"/>
+    <file name="u1765-17-fs.png" crc="80190691" ref="contacto"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="110199422" ref="tablet>producciones:tablet>contacto:tablet>index:tablet>web:tablet>impresos:tablet>comunicacion-y-emprendimiento:tablet>portafolio:tablet>asesorias:tablet>la-importancia-de-comunicar:tablet>antofagasta-a-mil-2017"/>
+      <file name="producciones.css" crc="106954734" ref="tablet>producciones"/>
+      <file name="contacto.css" crc="424047984" ref="tablet>contacto"/>
+      <file name="index.css" crc="3820500211" ref="tablet>index"/>
+      <file name="web.css" crc="458586286" ref="tablet>web"/>
+      <file name="impresos.css" crc="307664255" ref="tablet>impresos"/>
+      <file name="comunicacion-y-emprendimiento.css" crc="3989146216" ref="tablet>comunicacion-y-emprendimiento"/>
+      <file name="portafolio.css" crc="234853608" ref="tablet>portafolio"/>
+      <file name="asesorias.css" crc="4238592903" ref="tablet>asesorias"/>
+      <file name="la-importancia-de-comunicar.css" crc="305650060" ref="tablet>la-importancia-de-comunicar"/>
+      <file name="antofagasta-a-mil-2017.css" crc="462004455" ref="tablet>antofagasta-a-mil-2017"/>
+    </folder>
+    <file name="index.html" crc="504577993" seo="true" mt="1478645852807" redirect="true"/>
+    <file name="contacto.html" crc="4195620198" seo="true" mt="1477002124124" redirect="true"/>
+    <file name="la-importancia-de-comunicar.html" crc="4238782942" seo="true" mt="1477002130786" redirect="true"/>
+    <file name="comunicacion-y-emprendimiento.html" crc="3906051727" seo="true" mt="1477002140748" redirect="true"/>
+    <file name="portafolio.html" crc="473042287" seo="true" mt="1477002148215" redirect="true"/>
+    <file name="asesorias.html" crc="41037667" seo="true" mt="1477002155289" redirect="true"/>
+    <file name="impresos.html" crc="4177712680" seo="true" mt="1477002160363" redirect="true"/>
+    <file name="producciones.html" crc="500851072" seo="true" mt="1477002171523" redirect="true"/>
+    <file name="web.html" crc="126053357" seo="true" mt="1477002165001" redirect="true"/>
+    <file name="antofagasta-a-mil-2017.html" crc="200846137" seo="true" mt="1478645852811" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="4259115745" ref="phone>contacto:phone>servicios:phone>producciones:phone>index:phone>web:phone>quienes-somos:phone>portafolio:phone>impresos:phone>tendencia-opinion:phone>asesorias:phone>tendencia-opinion---copia"/>
+      <file name="contacto.css" crc="3835343901" ref="phone>contacto"/>
+      <file name="servicios.css" crc="254098895" ref="phone>servicios"/>
+      <file name="producciones.css" crc="3777232911" ref="phone>producciones"/>
+      <file name="index.css" crc="4189451926" ref="phone>index"/>
+      <file name="web.css" crc="4009545606" ref="phone>web"/>
+      <file name="quienes-somos.css" crc="442957561" ref="phone>quienes-somos"/>
+      <file name="portafolio.css" crc="440654336" ref="phone>portafolio"/>
+      <file name="impresos.css" crc="323223305" ref="phone>impresos"/>
+      <file name="tendencia-opinion.css" crc="4116697676" ref="phone>tendencia-opinion"/>
+      <file name="asesorias.css" crc="3835088597" ref="phone>asesorias"/>
+      <file name="tendencia-opinion---copia.css" crc="525555043" ref="phone>tendencia-opinion---copia"/>
+    </folder>
+    <file name="index.html" crc="298355356" seo="true" mt="1478645780870" redirect="true"/>
+    <file name="contacto.html" crc="4039714420" seo="true" mt="1478645780733" redirect="true"/>
+    <file name="tendencia-opinion.html" crc="3974997542" seo="true" mt="1478645780843" redirect="true"/>
+    <file name="servicios.html" crc="399525598" seo="true" mt="1478645780983" redirect="true"/>
+    <file name="quienes-somos.html" crc="3773333231" seo="true" mt="1478645780789" redirect="true"/>
+    <file name="portafolio.html" crc="4188619394" seo="true" mt="1478645780898" redirect="true"/>
+    <file name="asesorias.html" crc="240227141" seo="true" mt="1478645780816" redirect="true"/>
+    <file name="impresos.html" crc="491674373" seo="true" mt="1478645780926" redirect="true"/>
+    <file name="web.html" crc="104069043" seo="true" mt="1478645780762" redirect="true"/>
+    <file name="producciones.html" crc="49061586" seo="true" mt="1478645780955" redirect="true"/>
+    <file name="tendencia-opinion---copia.html" crc="4176984063" seo="true" mt="1478645813337" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="206077440" seo="true" mt="1478641813591" redirect="true"/>
+  <file name="contacto.html" crc="161482133" seo="true" mt="1477001875189" redirect="true"/>
+  <file name="la-importancia-de-comunicar.html" crc="3913400606" seo="true" mt="1477001901995" redirect="true"/>
+  <file name="comunicacion-y-emprendimiento.html" crc="107409270" seo="true" mt="1477001925627" redirect="true"/>
+  <file name="portafolio.html" crc="4215847087" seo="true" mt="1477001945643" redirect="true"/>
+  <file name="asesoria.html" crc="3882092305" seo="true" mt="1477001962818" redirect="true"/>
+  <file name="impresos.html" crc="4040681832" seo="true" mt="1477001995634" redirect="true"/>
+  <file name="web.html" crc="3975110913" seo="true" mt="1477002018057" redirect="true"/>
+  <file name="producciones.html" crc="124179464" seo="true" mt="1477002038712" redirect="true"/>
+  <file name="sin-título-10.html" crc="3851745045" seo="true" mt="1476998926915" redirect="true"/>
+  <file name="antofagasta-a-mil-2017.html" crc="3831657058" seo="true" mt="1478645922135" redirect="true"/>
+</manifest>
